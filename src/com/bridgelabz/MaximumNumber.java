@@ -1,6 +1,7 @@
 package com.bridgelabz;
 
 public class MaximumNumber {
+
     //method: find maximum
     public <T extends Comparable<T>> void findMaximum(T x, T y, T z) {
         T max = x;
