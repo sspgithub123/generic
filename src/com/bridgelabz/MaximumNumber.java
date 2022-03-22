@@ -10,6 +10,6 @@ public class MaximumNumber {
         } else if (z.compareTo(max) > 0) {
             max = z;
         }
-        System.out.println("Maximun is: " + max);
+        System.out.println("Maximum is: " + max);
     }
 }
